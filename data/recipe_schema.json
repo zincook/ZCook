@@ -1,0 +1,24 @@
+{
+  "recipe_id": "string",
+  "title": "string",
+  "ingredients": [
+    {
+      "ingredient_id": "string",
+      "name": "string",
+      "quantity": "string"
+    }
+  ],
+  "instructions": [
+    "string"
+  ],
+  "cuisine": "string",
+  "cooking_time": "number",
+  "tags": [
+    "string"
+  ],
+  "nutrition": {
+    "calories": "number",
+    "protein": "number",
+    "fat": "number"
+  }
+}
